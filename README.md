@@ -40,7 +40,7 @@ I'm currently looking for an opportunity to complete my **professional internshi
 
 ###  Featured Projects
 
-** FoodApp**
+**FoodApp**
 
 A food ordering web application inspired by food delivery platforms.
 
@@ -52,7 +52,7 @@ Repositories:
 - [Frontend](https://github.com/anllysandoval/app-itz-food-frontend)
 - [Backend](https://github.com/anllysandoval/app-itz-food-backend)
 
-** Galería**
+**Galería**
 
 An online art gallery with shopping cart functionality.
 
@@ -60,7 +60,7 @@ Repositories:
 - [Frontend](https://github.com/anllysandoval/galeria-frontend)
 - [Backend](https://github.com/anllysandoval/galeria-backend)
 
-** Productos**
+**Productos**
 
 A web application developed with separate frontend and backend components.
 
@@ -77,6 +77,7 @@ B.S. in Computer Systems Engineering.
 ###  Contact
 
 - GitHub: [@anllysandoval](https://github.com/anllysandoval)
+- Gmail: [sandoval.anlly02@gmail.com]
 
 ---
 
@@ -114,7 +115,7 @@ Actualmente busco una oportunidad para realizar mis **Residencias Profesionales*
 
 ###  Proyectos destacados
 
-** FoodApp**
+**FoodApp**
 
 Aplicación web de pedidos de comida, inspirada en plataformas de entrega a domicilio.
 
@@ -126,7 +127,7 @@ Repositorios:
 - [Frontend](https://github.com/anllysandoval/app-itz-food-frontend)
 - [Backend](https://github.com/anllysandoval/app-itz-food-backend)
 
-** Galería**
+**Galería**
 
 Aplicación web de una galería de arte con funcionalidades de carrito de compras.
 
@@ -134,7 +135,7 @@ Repositorios:
 - [Frontend](https://github.com/anllysandoval/galeria-frontend)
 - [Backend](https://github.com/anllysandoval/galeria-backend)
 
-** Productos**
+**Productos**
 
 Aplicación web desarrollada con componentes independientes de frontend y backend.
 
@@ -154,7 +155,3 @@ Ingeniería en Sistemas Computacionales.
 - Gmail: [sandoval.anlly02@gmail.com]
 
 ---
-
-✨ *Always learning, building, and improving.*
-
-✨ *Aprendiendo, desarrollando y mejorando constantemente.*
